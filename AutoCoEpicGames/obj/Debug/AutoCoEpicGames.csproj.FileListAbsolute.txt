@@ -1,0 +1,11 @@
+C:\Users\Darky\source\repos\AutoCoEpicGames\AutoCoEpicGames\bin\Debug\AutoCoEpicGames.exe.config
+C:\Users\Darky\source\repos\AutoCoEpicGames\AutoCoEpicGames\bin\Debug\AutoCoEpicGames.exe
+C:\Users\Darky\source\repos\AutoCoEpicGames\AutoCoEpicGames\bin\Debug\AutoCoEpicGames.pdb
+C:\Users\Darky\source\repos\AutoCoEpicGames\AutoCoEpicGames\obj\Debug\AutoCoEpicGames.csproj.AssemblyReference.cache
+C:\Users\Darky\source\repos\AutoCoEpicGames\AutoCoEpicGames\obj\Debug\AutoCoEpicGames.csproj.SuggestedBindingRedirects.cache
+C:\Users\Darky\source\repos\AutoCoEpicGames\AutoCoEpicGames\obj\Debug\AutoCoEpicGames.Form1.resources
+C:\Users\Darky\source\repos\AutoCoEpicGames\AutoCoEpicGames\obj\Debug\AutoCoEpicGames.Properties.Resources.resources
+C:\Users\Darky\source\repos\AutoCoEpicGames\AutoCoEpicGames\obj\Debug\AutoCoEpicGames.csproj.GenerateResource.cache
+C:\Users\Darky\source\repos\AutoCoEpicGames\AutoCoEpicGames\obj\Debug\AutoCoEpicGames.csproj.CoreCompileInputs.cache
+C:\Users\Darky\source\repos\AutoCoEpicGames\AutoCoEpicGames\obj\Debug\AutoCoEpicGames.exe
+C:\Users\Darky\source\repos\AutoCoEpicGames\AutoCoEpicGames\obj\Debug\AutoCoEpicGames.pdb
