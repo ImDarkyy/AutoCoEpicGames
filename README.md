@@ -12,7 +12,11 @@ Ceci est un exemple.
 ```[Credentials]
 Nom=Darkyy
 Username=test@gmail.com
-Password=password 
+Password=passsword
+[Credentials2]
+Nom=test
+Username=
+Password=
 ```
 Ceci est un exemple.
 
