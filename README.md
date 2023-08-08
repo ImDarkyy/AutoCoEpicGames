@@ -9,11 +9,11 @@ Pour que cela fonctionne, il faut d'abord se déconnecter de son compte, puis ex
 Veillez à bien respecter la nomenclature du fichier .ini : 
 Ceci est un exemple.
 
-[Credentials]
+```[Credentials]
 Nom=Darkyy
 Username=test@gmail.com
 Password=password 
-
+```
 Ceci est un exemple.
 
 
